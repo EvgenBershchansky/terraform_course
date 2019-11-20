@@ -2,3 +2,7 @@
 terraform.tfstate
 terraform.tfstate.backup
 terraform.tfstate.d/
+docker/terraform.tfstate
+docker/terraform.tfstate.backup
+docker/terraform.tfstate.d
+docker/.terraform/
