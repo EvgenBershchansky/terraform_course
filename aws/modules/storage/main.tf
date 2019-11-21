@@ -2,7 +2,7 @@
 
 # Create a random id
 resource "random_id" "tf_bucket_id"{
-    byte_length = 4
+    byte_length = 2
 }
 
 # Create S3 bucket

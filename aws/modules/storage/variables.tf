@@ -1,3 +1,1 @@
-variable "project_name"{
-    default = "terraform-course"
-}
+variable "project_name"{}
