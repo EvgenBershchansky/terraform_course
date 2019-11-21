@@ -7,3 +7,6 @@ docker/terraform.tfstate.backup
 docker/terraform.tfstate.d
 docker/.terraform/
 container.txt
+aws/modules/storage/terraform.tfstate
+aws/modules/storage/terraform.tfstate.backup
+aws/modules/storage/.terraform/
